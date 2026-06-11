@@ -29,7 +29,7 @@ const artworks = [
     year:       2024,
     medium:     'Watercolour',
     dimensions: '30 × 40 cm',
-    image:      'assets/artworks/AbusimbelWatercolour.png.jpg',
+    image:      'assets/artworks/AbusimbelWatercolour.png',
   },
   {
     id:         2,
